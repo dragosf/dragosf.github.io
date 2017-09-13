@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^(.*)$ http://irmav9.u-strasbg.fr/~fratila/$1 [R=301,L]
